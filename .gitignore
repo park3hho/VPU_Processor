@@ -1,0 +1,36 @@
+# Vivado / Vitis project artifacts (too large)
+project_1/
+project_2/
+vivado_projects/
+hls_workspace/
+reference_designs/
+
+# Vivado generated
+*.jou
+*.log
+*.str
+*.xpr
+*.bit
+*.hwh
+*.xsa
+*.dcp
+*.dtbo
+.Xil/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Personal scratch
+xsa1/
+xaa/
+xsa1.zip
